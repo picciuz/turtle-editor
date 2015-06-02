@@ -1,0 +1,1 @@
+Eclipse plugin with an Xtext based editor for creating and maintaining text files containing RDF triples in W3C's Turtle syntax.
